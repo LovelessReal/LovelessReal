@@ -32,6 +32,10 @@
 <img src="https://img.shields.io/badge/Taiga-77CC77?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjQnIGhlaWdodD0nMjQnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48Y2lyY2xlIGN4PScxMicgY3k9JzEyJyByPScxMicgZmlsbD0nIzc3Q0M3NycvPjwvc3ZnPg==" alt="Taiga" /> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovelessReal&layout=compact&theme=transparent&langs_count=6" alt="Top Langs" />
+</p>
+
 ---
 
 ### 🧩  Моя роль в команде

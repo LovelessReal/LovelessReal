@@ -15,6 +15,8 @@
 - 💬 Люблю поломать голову над сложными задачами
 - 🤝 Командный игрок — умею выстраивать диалог, предлагать идеи и находить общее решение с дизайнерами, разработчиками и другими коллегами 
 - 🎯 Моя цель — стать высококлассным специалистом
+
+  ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=LovelessReal&show_icons=true&theme=radical&cache_seconds=1800)
 ---
 
 ### 🛠️ Мой стек технологий:
@@ -33,7 +35,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></p>
 
 
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=LovelessReal&layout=compact&theme=radical&cache_seconds=1800)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=LovelessReal&layout=compact&theme=radical&cache_seconds=1800) 
 
 ---
 
@@ -46,4 +48,4 @@
 - Делюсь опытом с другими тестировщиками и перенимаю лучшие практики
 ---
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=LovelessReal&show_icons=true&theme=radical&cache_seconds=1800)
+

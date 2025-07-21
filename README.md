@@ -45,3 +45,5 @@
 - Провожу ручное тестирование и внимательно проверяю фичи  
 - Делюсь опытом с другими тестировщиками и перенимаю лучшие практики
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LovelessReal&show_icons=true&theme=radical)

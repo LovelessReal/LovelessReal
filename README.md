@@ -30,11 +30,11 @@
 
 ### 🛠️ Мой стек:
 
-API-инструменты: Postman, Swagger, SoapUI
-Системы контроля версий (VCS): Git, GitHub
-Системы управления тестированием (TMS): Taiga, Test IT, Qase.io
-Базы данных (RDBMS): MySQL
-Прочее: Figma, Bash, базовые знания JavaScript
+- API-инструменты: Postman, Swagger, SoapUI 
+- Системы контроля версий (VCS): Git, GitHub 
+- Системы управления тестированием (TMS): Taiga, Test IT, Qase.io 
+- Базы данных (RDBMS): MySQL 
+- Прочее: Figma, Bash, базовые знания JavaScript
 
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=LovelessReal&layout=compact&theme=radical&cache_seconds=1800) 
 

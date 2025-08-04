@@ -44,7 +44,8 @@
 - **API tools**: Postman, Swagger, SoapUI  
 - **Version Control**: Git, GitHub  
 - **Test Management Systems**: Taiga, Test IT, Qase.io  
-- **Databases**: MySQL  
+- **Databases**: MySQL
+- **BTS**: Redmine, Jira
 - **Other**: Figma, Bash, basic JavaScript knowledge  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LovelessReal&layout=compact&theme=radical&cache_seconds=1800)
@@ -80,7 +81,8 @@
 - **API-инструменты**: Postman, Swagger, SoapUI  
 - **Системы контроля версий**: Git, GitHub  
 - **Системы управления тестированием**: Taiga, Test IT, Qase.io  
-- **Базы данных**: MySQL  
+- **Базы данных**: MySQL
+-  **BTS**: Redmine, Jira
 - **Другое**: Figma, Bash, базовые знания JavaScript  
 
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=LovelessReal&layout=compact&theme=radical&cache_seconds=1800)

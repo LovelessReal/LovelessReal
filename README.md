@@ -41,11 +41,12 @@
 
 ### 🛠️ My Tech Stack
 
-- **API tools**: Postman, Swagger, SoapUI  
+- **API tools**: Postman (collections, variables), Swagger, SoapUI  
 - **Version Control**: Git, GitHub  
 - **Test Management Systems**: Taiga, Test IT, Qase.io  
 - **Databases**: MySQL
 - **BTS**: Redmine, Jira
+- **Sniffers**: Charles Proxy
 - **Other**: Figma, Bash, basic JavaScript knowledge  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LovelessReal&layout=compact&theme=radical&cache_seconds=1800)
@@ -78,11 +79,12 @@
 
 ### 🛠️ Мой стек
 
-- **API-инструменты**: Postman, Swagger, SoapUI  
+- **API-инструменты**: Postman (коллекции, переменные), Swagger, SoapUI  
 - **Системы контроля версий**: Git, GitHub  
 - **Системы управления тестированием**: Taiga, Test IT, Qase.io  
 - **Базы данных**: MySQL
 -  **BTS**: Redmine, Jira
+-  **Снифферы**: Charles Proxy
 - **Другое**: Figma, Bash, базовые знания JavaScript  
 
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=LovelessReal&layout=compact&theme=radical&cache_seconds=1800)
